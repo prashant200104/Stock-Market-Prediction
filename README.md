@@ -11,7 +11,7 @@ This repository contains a Jupyter Notebook (`analysis.ipynb`) focused on analyz
 
 ## Overview
 
-The `analysis.ipynb` notebook provides a detailed analysis of Japan's technology landscape. It includes data-driven insights and visualizations across sectors like AI, robotics, telecommunications, and software development, offering a comprehensive understanding of the current trends and future opportunities.
+This project explores the technological landscape in Japan through advanced time series analysis of stock and economic indicators. The notebook focuses on examining historical trends, seasonal patterns, and volatility in the data to provide a comprehensive understanding of technological growth and market behavior. By leveraging models such as ARIMA, LSTM and conducting seasonal decomposition, the project identifies key patterns and forecasts future trends. This analysis aims to assist policymakers, investors, and businesses in making informed decisions based on data-driven insights into Japan’s evolving technology sector.
 
 ## Installation
 To run the notebook, ensure you have Python and Jupyter Notebook installed. You can also install the required dependencies listed in `requirements.txt`:
